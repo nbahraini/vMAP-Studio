@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "classic",
+  "name": "Classic",
+  "version": 1,
+  "author": "VMap Studio contributors",
+  "license": "CC0-1.0",
+  "description": "Light business theme in the spirit of classic desktop mind mapping.",
+  "background": "#FFFFFF",
+  "line_style": "curve",
+  "colored_branches": false,
+  "h_gap": 34, "v_gap": 12, "root_gap": 56,
+  "levels": {
+    "root": {"shape": "rounded_rect", "fill": "#2B5797", "border": "#1E3F6E", "border_width": 2,
+             "text_color": "#FFFFFF", "font_size": 18, "bold": true, "padding_x": 22, "padding_y": 12,
+             "line_color": "#5C7699", "line_width": 2.5},
+    "main": {"shape": "rounded_rect", "fill": "#E8EEF7", "border": "#7D98C1", "border_width": 1.2,
+             "text_color": "#1B2A41", "font_size": 14, "padding_x": 14, "padding_y": 7,
+             "line_color": "#5C7699", "line_width": 2},
+    "sub":  {"shape": "underline", "fill": "none", "border": "#8EA3BF", "border_width": 1.2,
+             "text_color": "#26334D", "font_size": 12, "padding_x": 6, "padding_y": 4,
+             "line_color": "#8EA3BF", "line_width": 1.3}
+  }
+}

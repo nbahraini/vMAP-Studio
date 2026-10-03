@@ -1,0 +1,1053 @@
+  230  sudo apt search cowsay
+  231  sudo apt install cowsay
+  232  fortune
+  233  sudo apt install fortune
+  234  fortune
+  235  cowsay
+  236  cowsay asdjf;j
+  237  sudo apt install FIGLET
+  238  sudo apt search FIGLET
+  239  sudo apt install figlet
+  240  figlet
+  241  sl
+  242  apt install sl 
+  243  sudo apt install sl 
+  244  sl
+  245  apt install cmatrix 
+  246  sudo apt install cmatrix 
+  247  cmatrix
+  248  sudo apt install aafire
+  249  sudo apt search aafire
+  250  sudo apt install caca-utils
+  251  aafire
+  252  lolcat
+  253  sudo apt install lolcat
+  254  telnet towel.blinkenlights.nl
+  255  ping 192.168.31.9
+  256  dpkg -Uvh ./freedownloadmanager.deb
+  257  dpkg -i ./freedownloadmanager.deb
+  258  sudo dpkg -Uvh ./freedownloadmanager.deb
+  259  sudo dpkg -ivh ./freedownloadmanager.deb
+  260  sudo dpkg -Uh ./freedownloadmanager.deb
+  261  sudo dpkg -i ./freedownloadmanager.deb
+  262  sudo apt install  mkvtoolnix
+  263  sudo apt search  mkvtoolnix
+  264  sudo apt install  mkvtoolnix-gui
+  265  cd Downloads/
+  266  cd Telegram\ Desktop
+  267  mkvextract tracks \[AWHT\]\ Overlord\ Sei\ Oukoku-hen\ \[480p\] 2:overloard-SeiOukoku-hen.srt
+  268  mkvextract tracks \[AWHT\]\ Overlord\ Sei\ Oukoku-hen\ \[480p\].mkv 2:overloard-SeiOukoku-hen.srt
+  269  ls *.srt
+  270  pwd
+  271  sudo apt search subtitle
+  272  sudo apt search subdownloader aegisub 
+  273  sudo apt install subdownloader aegisub 
+  274  ps aux |grep subdownloader
+  275  kill -9 111545
+  276  ps aux |grep subdownloader
+  277  pkill 1111646
+  278  ps aux |grep subdownloader
+  279  sudo poweroff
+  280  sudo apt upgrade
+  281  sudo apt autoemove
+  282  sudo apt autoremove
+  283  vi /tmp/vmware-r00tn64/vmware-11516.log 
+  284  cat /tmp/vmware-r00tn64/vmware-11516.log 
+  285  vmware
+  286  sudo apt install Instagraph
+  287  sudo snap install Instagraph
+  288  sudo snap install instagraph
+  289  touch bashforkbomb.txt
+  290  vi bashforkbomb.txt 
+  291  sudo apt update
+  292  kill -9 2052
+  293  sudo kill -9 2052
+  294  sudo apt update
+  295  sudo apt upgrade
+  296  reboot
+  297  sudo reboot
+  298  fdisk -l
+  299  sudo -s
+  300  sudo -s
+  301  sudo apt update
+  302  sudo apt install snapd
+  303  sudo snap install snapd
+  304  sudo snap install v2raya
+  305  sudo apt update
+  306  sudo apt upgrade
+  307  reboot
+  308  sudo reboot
+  309  git --version 
+  310  where git 
+  311  which  git 
+  312  ls /home/r00tn64/Documents/
+  313  ls -la /home/r00tn64/Documents/
+  314  mkdir /home/r00tn64/Documents/git
+  315  sudo systemctl stop v2raya
+  316  ps aux |grep v2rayA
+  317  ps aux |grep v2raya
+  318  /snap/v2raya/49/usr/bin/v2raya --help
+  319  /snap/v2raya/49/usr/bin/v2raya stop
+  320  /snap/v2raya/49/usr/bin/v2raya kill
+  321  /snap/v2raya/49/usr/bin/v2raya --reset-password
+  322  sudo /snap/v2raya/49/usr/bin/v2raya --reset-password
+  323  kill -9 1377 3836
+  324  sudo kill -9 1377 3836
+  325  /snap/v2raya/49/usr/bin/v2raya --v2ray-bin /snap/v2raya/49/usr/local/bin/v2ray
+  326  sudo /snap/v2raya/49/usr/bin/v2raya --v2ray-bin /snap/v2raya/49/usr/local/bin/v2ray
+  327  sudo kill -9 1377 3836
+  328  ps aux |grep v2raya
+  329  sudo kill -9 26481 26657
+  330  sudo kill -9 26481 26423
+  331  ps aux |grep v2raya
+  332  sudo snap remove v2raya
+  333  clesr
+  334  clear
+  335  cd/home/r00tn64/Downloads
+  336  cd /home/r00tn64/Downloads
+  337  sudo dpkg -i ./Hiddify-Debian-x64.deb 
+  338  ssh -D 1080  -N -f  droot@162.223.90.125
+  339  sudo apt install ocrmypdf
+  340  cd Downloads/
+  341  ls *.pdf
+  342  ocrmypdf ./Technical\ Analysis\ of\ the\ Financial\ Markets\ EN.pdf ./Technical\ Analysis\ of\ the\ Financial\ Markets\ EN2.pdf 
+  343  clear
+  344  sudo fdisk -l
+  345  sudo dd if=/dev/zero of=/dev/sdb bs=512 count=1 
+  346  sudo fdisk -l
+  347  sudo gparted
+  348  sudo fdisk -l
+  349  sudo dd if=/dev/zero of=/dev/sdb bs=512 count=1 
+  350  sudo apt search wipefs
+  351  sudo prime-select query
+  352  sudo apt search prime-select
+  353  sudo apt query prime-select
+  354  sudo lspci | grep -i nvidia
+  355  xrandr --listproviders
+  356  sudo nano /etc/X11/xorg.conf
+  357  su - root
+  358  sudo -s 
+  359  sudo -sE gnome-text-editor
+  360  sudo apt update
+  361  sudo apt upgrade
+  362  sudo apt update
+  363  reboot
+  364  sudo reboot
+  365  sudo apt update
+  366  sudo apt upgrade
+  367  sudo apt update
+  368  sudo apt upgrade
+  369  sudo reboot
+  370  sudo reboot 
+  371  sudo apt update
+  372  sudo apt upgrade
+  373  cd Downloads/
+  374  find / -iname freedownloadmanager 
+  375  dpkg freedownloadmanager.deb --reconfigure 
+  376  dpkg -i freedownloadmanager.deb 
+  377  dpkg -Uvh freedownloadmanager.deb 
+  378  dpkg -i freedownloadmanager.deb 
+  379  sudo dpkg -i freedownloadmanager.deb 
+  380  sudo find / -iname hiddfy
+  381  sudo find / -iname hiddify
+  382  sudo /usr/bin/hiddify
+  383  sudo dpkg --help
+  384  sudo dpkg -r freedownloadmanager.deb 
+  385  apt remove freedownloadmanager
+  386  sudo apt remove freedownloadmanager
+  387  sudo vi /etc/apt/sources.list
+  388  sudo dpkg -i /home/r00tn64/Downloads/freedownloadmanager.deb 
+  389  sudo systemctl status apparmor.service
+  390  clear
+  391  ls -lah 
+  392  ssh -J droot@103.216.61.226 -D 127.0.0.1:8282 droot@162.223.90.125
+  393  ssh droot@103.216.61.226
+  394  ps aux |grep warmux
+  395  kill -9 13950
+  396  ssh droot@103.216.61.226
+  397  dig 
+  398  ssh ubuntu@10.100.100.240
+  399  ping 10.100.100.240
+  400  nmcli dev show | grep DNS
+  401  nmcli 
+  402  nmcli connection modify wlp59s0 ipv4.dns "192.168.0.98,192.168.0.70,192.168.0.71"
+  403  nmcli connection modify fctvpnc9a5048a ipv4.dns "192.168.0.98,192.168.0.70,192.168.0.71"
+  404  nslookup vcsa.jy.local
+  405  ssh  -D 127.0.0.1:8282 droot@162.223.90.125
+  406  ssh  droot@162.223.90.125
+  407  ssh  -D 127.0.0.1:8282 droot@162.223.90.125
+  408  ping 162.223.90.125
+  409  ssh  droot@162.223.90.125
+  410  telnet 162.223.90.125 22
+  411  sudo -s
+  412  ls -lah |grep ssh
+  413  cd .ssh/
+  414  ls -lah 
+  415  rm -rf known_hosts
+  416  ssh  droot@162.223.90.125
+  417  ./start-tor-browser.desktop 
+  418  ssh  -DNf droot@162.223.90.125
+  419  ssh  -D 8282 -NF droot@162.223.90.125
+  420  ssh  -D 8282 -Nf droot@162.223.90.125
+  421  sudo -s
+  422  ssh droot@103.216.61.226
+  423  ssh  -D 8282 -Nf droot@162.223.90.125
+  424  ./start-tor-browser.desktop 
+  425  go get github.com/gorilla/websocket
+  426  go get github.com/satori/go.uuid
+  427  go --version
+  428  sudo apt install golang
+  429  sudo apt install go
+  430  sudo snap install golang
+  431  apt updagte
+  432  apt update
+  433  sudo apt update
+  434  ./start-tor-browser.desktop .&
+  435  ./epsxe_x64 
+  436  sudo -s
+  437  sudo dpkg -i libncurses5_6.4-4_amd64.deb 
+  438  sudo dpkg -Uvh libncurses5_6.4-4_amd64.deb 
+  439  ./epsxe_x64 
+  440  ./start-tor-browser.desktop .&
+  441  ./start-tor-browser.desktop .&
+  442  ./epsxe_x64 
+  443  ./start-tor-browser.desktop 
+  444  ssh  -D 8282 -Nf droot@162.223.90.125
+  445  ps aux |grep ssh 
+  446  kill -9 15026
+  447  ps aux |grep ssh 
+  448  kill -9 15452
+  449  ps aux |grep ssh 
+  450  kill -9 1483
+  451  sudo ps aux |grep ssh 
+  452  ps aux |grep ssh 
+  453  ssh  -D 8282 -Nf droot@162.223.90.125
+  454  ps aux |grep ssh 
+  455  kill -9 1483 18287 28066
+  456  sudo kill -9 1483 18287 28066
+  457  ssh  -D 8282 -Nf droot@162.223.90.125
+  458  poweroff
+  459  sudo poweroff
+  460  ssh  -D 8282  droot@162.223.90.125
+  461  ls -lah 
+  462  sudo deb -Uvh forticlient_vpn_7.4.3.1736_amd64.deb 
+  463  ls -lah 
+  464  sudo dpkg -ivh ./forticlient_vpn_7.4.3.1736_amd64.deb
+  465  sudo dpkg -i ./forticlient_vpn_7.4.3.1736_amd64.deb
+  466  /opt/forticlient/start-fortitray-launcher.sh
+  467  sudo poweroff
+  468  sudo cat /etc/group
+  469  curl -fsSL https://repo.fortinet.com/repo/7.0/ubuntu/DEB-GPG-KEY | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/fortinet.gpg
+  470  sudo vi /etc/apt/sources.list.d/fortinet.list
+  471  sudo apt update
+  472  sudo apt install forticlient
+  473  ls -lah 
+  474  cat /etc/passwd
+  475  ping dl2.soft98.ir
+  476  ssh  -D 8282  droot@162.223.90.125
+  477  ls -lah 
+  478  chmod u+x VMware-Workstation-25H2u1-25219725.x86_64.bundle 
+  479  ./VMware-Workstation-25H2u1-25219725.x86_64.bundle 
+  480  sudo ./VMware-Workstation-25H2u1-25219725.x86_64.bundle 
+  481  sudo ../VMware.Workstation.Pro.17.5.1.Linux/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle --help
+  482  sudo vmware-installer -u vmware-workstation
+  483  vmware-installer -l
+  484  sudo  vmware-installer --uninstall-product vmware-workstation
+  485  ps aux |grep vmware
+  486  kill -9 1260 6715 7441 21345
+  487  sudo kill -9 1260 6715 7441 21345
+  488  sudo  vmware-installer --uninstall-product vmware-workstation
+  489  sudo ./VMware-Workstation-25H2u1-25219725.x86_64.bundle 
+  490  sudo  vmware-installer --help
+  491  sudo  vmware-installer --uninstall-product vmware-workstation -r
+  492  sudo ./VMware-Workstation-25H2u1-25219725.x86_64.bundle 
+  493  sudo vmware-installer --uninstall-product vmware-player
+  494  sudo  vmware-installer --uninstall-product vmware-workstation 
+  495  sudo vmware-installer --uninstall-component=vmware-workstation
+  496  vmware 
+  497  ps aux |grep vmware
+  498  kill -9 24851
+  499  ps aux |grep vmware
+  500  sudo vmware-installer --uninstall-component=vmware-workstation
+  501  ps aux |grep vmware
+  502  sudo /etc/init.d/vmware stop
+  503  sudo killall -9 vmware-vmx vmware-usbarbitrator vmnet-natd
+  504  lsmod | grep vm
+  505  kill -9 98304 
+  506  lsmod | grep vm
+  507  sudo rmmod vmnet vmmod vmci vmmemctl
+  508  sudo vmware-installer --uninstall-component=vmware-workstation
+  509  # Remove main application and config files
+  510  sudo rm -rf /etc/vmware*
+  511  sudo rm -rf /usr/lib/vmware*
+  512  sudo rm -rf /var/lib/vmware*
+  513  # Remove the installer utility tracker itself
+  514  sudo rm -rf /etc/vmware-installer
+  515  # Remove main application and config files
+  516  sudo rm -rf /etc/vmware*
+  517  sudo rm -rf /usr/lib/vmware*
+  518  sudo rm -rf /var/lib/vmware*
+  519  # Remove the installer utility tracker itself
+  520  sudo rm -rf /etc/vmware-installer
+  521  sudo rm -f /usr/bin/vmware*
+  522  sudo rm -f /usr/bin/vmnet*
+  523  sudo rm -rf /usr/share/applications/vmware*
+  524  sudo reboot
+  525  sudo ./VMware-Workstation-25H2u1-25219725.x86_64.bundle 
+  526  cd ..
+  527  ls -lah 
+  528  7z x Windows.11.Business.26H1.28000.2269.x64.PreActivated_p30download.com.part1.rar -p 
+  529  7z x Windows.11.Business.26H1.28000.2269.x64.PreActivated_p30download.com.part1.rar -p 'www.p30download.com'
+  530  ssh  -D 8282  droot@162.223.90.125
+  531  sudo apt install unrar
+  532  sudo apt install unrar-free
+  533  sudo apt install PeaZip
+  534  sudo apt search  PeaZip
+  535  cd ./Downloads/
+  536  ls -lah |grep windows 
+  537  ls -lah |grep Windows 
+  538  unrar ./Windows.11.Business.26H1.28000.2269.x64.PreActivated_p30download.com.part1.rar
+  539  unrar --help
+  540  unrar -x ./Windows.11.Business.26H1.28000.2269.x64.PreActivated_p30download.com.part1.rar -p 'www.p30download.com'
+  541  sudo apt install p7zip-full p7zip-rar -y
+  542  p7zip
+  543  sudo p7zip .&
+  544  ps aux|grep 7ip
+  545  ps aux|grep p7zip
+  546  kill -9 
+  547  kill -9 12051
+  548  ps aux|grep p7zip
+  549  pzip
+  550  p7zip
+  551  unrar x -ad Windows.11.Business.26H1.28000.2269.x64.PreActivated_p30download.com.part1.rar 
+  552  df -h 
+  553  unrar --help
+  554  unrar x -ad Windows.11.Business.26H1.28000.2269.x64.PreActivated_p30download.com.part1.rar -p
+  555  sudo poweroff
+  556  ssh  -D 8282  droot@162.223.90.125
+  557  ./start-tor-browser.desktop 
+  558  dpkg -i code_1.95.1-1730355339_amd64.deb 
+  559  sudo dpkg -i code_1.95.1-1730355339_amd64.deb 
+  560  sudo poweroff
+  561  ./start-tor-browser.desktop 
+  562  ssh  -D 8282  droot@162.223.90.125
+  563  ps aux |grep ssh 
+  564  kill -9 15160
+  565  ps aux |grep ssh 
+  566  kill -9 50088
+  567  ps aux |grep ssh
+  568  kill -9 4980 
+  569  kill -9 2956
+  570  ps aux |grep ssh
+  571  kill -9 3008
+  572  ps aux |grep ssh
+  573  apt install putty 
+  574  sudo apt install putty 
+  575  ssh  -D 8282  droot@162.245.81.144 -p 20402
+  576  clear
+  577  ssh  -D 8282  droot@162.245.81.144 -p 20402
+  578  ssh -J droot@103.216.61.226 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  579  ssh  -D 8282  droot@162.245.81.144 -p 20402
+  580  history |grep ssh 
+  581  ssh droot@103.216.61.226
+  582  ssh-keygen -f "/home/r00tn64/.ssh/known_hosts" -R "103.216.61.226"
+  583  ssh droot@103.216.61.226
+  584  ssh  -D 8282  droot@162.245.81.144 -p 20402
+  585  ./start-tor-browser.desktop 
+  586  ssh test@192.168.31.36
+  587  ssh -J test@192.168.31.36 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  588  ssh  -D 8282  droot@162.245.81.144 -p 20402
+  589  apt update
+  590  sudo apt update
+  591  clear
+  592  vi /etc/apt/apt.conf.d/proxy.conf
+  593  sudo vi /etc/apt/apt.conf.d/proxy.conf
+  594  find / -iname pproxy
+  595  sudo find / -iname pproxy
+  596  python -m pproxy -r socks5://localhost:8282 -l http://127.0.0.1:9080 -vv
+  597  python
+  598  python3 -m pproxy -r socks5://localhost:8282 -l http://127.0.0.1:9080 -vv
+  599  pip3 install pproxy
+  600  sudo pip3 install pproxy
+  601  apt install python pip 
+  602  sudo apt install python pip 
+  603  sudo apt install python python3-pip 
+  604  ls -lah 
+  605  ping debian.org 
+  606  sudo systemctl status systemd-resolved nscd dnsmasq
+  607  sudo apt install python python3-pip 
+  608  sudo apt update
+  609  sudo apt install python python3-pip 
+  610  sudo apt install python3 python3-pip 
+  611  sudo apt upgrade 
+  612  sudo apt install python3 python3-pip 
+  613  sudo reboot
+  614  sudo vi /etc/apt/apt.conf.d/proxy.conf 
+  615  sudo apt update
+  616  sudo -s
+  617  chmod u+x sshtun.sh 
+  618  ./sshtun.sh 
+  619  ls 
+  620  ./telegramx_v02.sh
+  621  MKT97opal
+  622  ./telegramx.sh 
+  623  MKT97opal
+  624  sudo -s
+  625  ./telegramx.sh 
+  626  clear
+  627  sudo -s
+  628  ssh droot@103.216.61.226
+  629  ssh -J droot@ -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  630  ssh droot@103.216.61.226
+  631  ssh -J droot@103.216.61.226 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  632  ssh droot@103.216.61.226
+  633  ./telegramx.sh 
+  634  sudo -s
+  635  ./telegramx.sh 
+  636  ps aux|grep telegram
+  637  ./telegramx.sh 
+  638  sudo poweroff
+  639  ssh droot@103.216.61.226 -p 443
+  640  ssh -D 8282 droot@103.216.61.226 -p 443
+  641  ssh -J droot@103.216.61.226 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  642  ssh -J test@192.168.31.36 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  643  ssh test@192.168.31.26
+  644  ssh test@192.168.31.36
+  645  ssh -J test@192.168.31.36 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  646  ssh h1.mypot.me
+  647  ssh -J test@192.168.31.36 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  648  ssh -D 8282 test@192.168.31.36
+  649  sudo apt install gsudo 
+  650  nslookup geektori.ir
+  651  ./telegramx.sh 
+  652  sudo -s
+  653  sudo echo test
+  654  ./telegramx.sh 
+  655  sudo -s 
+  656  sudo mv /home/droot/Downloads/Telegram\ Desktop/*.mkv /home/r00tn64/Downloads/Telegram\ Desktop
+  657  sudo poweroff
+  658  ssh -J test@192.168.31.36 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  659  sudo -s 
+  660  ./start-tor-browser.desktop 
+  661  ls -lah 
+  662  find / -iname dns
+  663  sudo find / -iname dns
+  664  ssh  droot@103.216.61.226 
+  665  sudo apt install systemd-resolved
+  666  sudo ln -sf /run/systemd/resolve/resolv.conf /etc/resolv.conf
+  667  sudo systemctl enable --now systemd-resolved
+  668  vi /etc/systemd/resolved.conf
+  669  sudo vi /etc/systemd/resolved.conf
+  670  nslookup kiingmovie.com
+  671  sudo vi /etc/systemd/resolved.conf
+  672  sudo systemctl restart systemd-resolved
+  673  nslookup kiingmovie.com
+  674  ps aux |grep ssh 
+  675  kill -9 25054 25055 6033 3225 3173
+  676  ssh -J test@192.168.31.36 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  677  ps aux |grep ssh 
+  678  kill -9 1543 3173
+  679  sudo kill -9 1543 3173
+  680  ps aux |grep ssh 
+  681  sudo kill -9 26171
+  682  ps aux |grep ssh 
+  683  ssh -J test@192.168.31.36 -D 127.0.0.1:8282 droot@162.245.81.144 -p 20402
+  684  ssh -D 828 test@192.168.31.36
+  685  ssh -J test@192.168.31.36 -D 127.0.0.1:8283 droot@162.245.81.144 -p 20402
+  686  ssh -D test@192.168.31.36 
+  687  ssh -D 8283 test@192.168.31.36 
+  688  ./telegramx.sh 
+  689  ./dpkg.sh 
+  690  chmod u+x build.sh 
+  691  chmod u+x dpkg.sh 
+  692  ./dpkg.sh 
+  693  ./studio
+  694  ./start-tor-browser.desktop 
+  695  sudo -u droot vlc
+  696  sudo -s
+  697  mv /home/droot/Downloads/Telegram\ Desktop/*.mkv /home/r00tn64/Downloads/Telegram\ Desktop/
+  698  sudo -u droot cp /home/droot/Downloads/Telegram\ Desktop/*.mkv /home/r00tn64/Downloads/Telegram\ Desktop/
+  699  cp '/home/droot/Downloads/Telegram Desktop/[AWHT] Clevatess S2 - 05 [480p].mkv' /home/r00tn64/Downloads/Telegram\ Desktop
+  700  sudo cp '/home/droot/Downloads/Telegram Desktop/[AWHT] Clevatess S2 - 05 [480p].mkv' /home/r00tn64/Downloads/Telegram\ Desktop
+  701  chmod u+x './[AWHT] Clevatess S2 - 05 [480p].mkv'
+  702  sudo chmod u+x './[AWHT] Clevatess S2 - 05 [480p].mkv'
+  703  ./proc-explorer 
+  704  chmod u+x proc-explorer 
+  705  ./proc-explorer 
+  706  chmod u+x build.sh 
+  707  ./build.sh 
+  708  sudo apt install qt5-qmake qtbase5-dev build-essential
+  709  ./build.sh 
+  710  ./proc-explorer
+  711  chmod u+x ./install.sh 
+  712  ./install.sh 
+  713  ssh-tunnel-mgr-tui 
+  714  ssh-tunnel-mgr-web 
+  715  make 
+  716  cd src/
+  717  ls -lah 
+  718  make 
+  719  cd ..
+  720  make
+  721  ./start-tor-browser.desktop 
+  722  cd
+  723  ssh droot@162.245.81.144 -p 20402
+  724  ssh -D 8283  droot@162.245.81.144 -p 20402
+  725  ./telegramx.sh 
+  726  python3 -m pip install flask
+  727  pip install flask
+  728  sudo apt search flask
+  729  sudo apt install python-flask
+  730  python3 -m pproxy -r socks5://localhost:8283 -l http://127.0.0.1:9080 -vv
+  731  python3 -m pproxy -r socks5://localhost:9150 -l http://127.0.0.1:9080 -vv
+  732  ls -lah 
+  733  ./proxybridge.desktop
+  734  cd ..
+  735  ls -lah 
+  736  chmod -R u+rwx ./proxybridge
+  737  chmod -r u+rwx ./proxybridge
+  738  ls ./proxybridge/
+  739  sudo chmod -R u+rwx ./proxybridge/
+  740  ls -lah 
+  741  cd proxybridge/
+  742  ls -lah 
+  743  cd proxybridge/
+  744  ls -lah 
+  745  cd ..
+  746  ls -lah 
+  747  cd packaging/
+  748  ls -lah 
+  749  ./proxybridge.desktop 
+  750  toch tor-starter.sh
+  751  touch tor-starter.sh
+  752  chmod u+x tor-starter.sh 
+  753  vi tor-starter.sh 
+  754  ls start-tor-browser.desktop >> ./tor-starter.sh 
+  755  vi tor-starter.sh 
+  756  ./start-tor-browser.desktop 
+  757  make
+  758  sudo apt install golang-go
+  759  go version
+  760  curl -LO https://go.dev/dl/go1.24.6.linux-amd64.tar.gz
+  761  sudo apt install curl 
+  762  curl -LO https://go.dev/dl/go1.24.6.linux-amd64.tar.gz
+  763  sudo rm -rf /usr/local/go
+  764  sudo tar -C /usr/local -xzf go1.24.6.linux-amd64.tar.gz
+  765  ls -lh go1.24.6.linux-amd64.tar.gz
+  766  file go1.24.6.linux-amd64.tar.gz
+  767  sha256sum go1.24.6.linux-amd64.tar.gz
+  768  rm go1.24.6.linux-amd64.tar.gz
+  769  curl -fLO https://go.dev/dl/go1.24.6.linux-amd64.tar.gz
+  770  rm -f go1.24.6.linux-amd64.tar.gz
+  771  curl -fL   -o go1.24.6.linux-amd64.tar.gz   https://dl.google.com/go/go1.24.6.linux-amd64.tar.gz
+  772  sudo rm -rf /usr/local/go
+  773  sudo tar -C /usr/local -xzf go1.26.5.linux-amd64.tar.gz 
+  774  export PATH=$PATH:/usr/local/go/bin
+  775  echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+  776  go version
+  777  make GO=/usr/local/go/bin/go build
+  778  export PATH=/usr/local/go/bin:$PATH
+  779  hash -r
+  780  which go
+  781  go version
+  782  make
+  783  export PATH=$PATH:/usr/local/go/bin
+  784  export PATH=/usr/local/go/bin:$PATH
+  785  which -a go
+  786  go version
+  787  ls -la
+  788  ls -la ..
+  789  find ~/Documents/ProxyBridge -name go.mod
+  790  ls 
+  791  find / -iname go.mod
+  792  sudo find / -iname go.mod
+  793  cp /usr/local/go/src/go.mod .
+  794  ls -lah 
+  795  make
+  796  cd mnt/
+  797  ls -lah 
+  798  cd ..
+  799  ls -lah 
+  800  cd src/
+  801  find ~/Documents/ProxyBridge/src/mnt -name go.mod
+  802  sudo chmod u+x ./go1.26.5.linux-amd64.tar.gz 
+  803  mv go1.26.5.linux-amd64.tar.gz ../..
+  804  cd ~/Documents/ProxyBridge
+  805  rm -rf src
+  806  tar xzf proxybridge-src.tar.gz
+  807  cd proxybridge
+  808  go mod tidy
+  809  cd
+  810  ./telegramx.sh 
+  811  python3 -m pproxy -r socks5://localhost:9150 -l http://127.0.0.1:9080 -vv
+  812  ./start-tor-browser.desktop 
+  813  cd Downloads/
+  814  chmod u+x OnionHop-x86_64.AppImage 
+  815  ./OnionHop-x86_64.AppImage 
+  816  mv OnionHop-x86_64.AppImage ./APPs/
+  817  cd APPs/
+  818  ./OnionHop-x86_64.AppImage 
+  819  ls -lah 
+  820  cd tor-browser-linux-x86_64-14.5.6/
+  821  ls -lah 
+  822  cd tor-browser/
+  823  ls -lah 
+  824  ./start-tor-browser.desktop 
+  825  cd
+  826  cd Downloads/APPs/
+  827  ls -lah 
+  828  ./OnionHop-x86_64.AppImage 
+  829  ls -lah OnionHop-x86_64.AppImage 
+  830  pwd OnionHop-x86_64.AppImage 
+  831  cd
+  832  ./telegramx.sh 
+  833  cd Documents/
+  834  ls -lah 
+  835  unzip CC-Generals.zip 
+  836  ls -lah 
+  837  clear
+  838  ls -lah 
+  839  cd CC-Generals/
+  840  ls -lah 
+  841  cat README.md 
+  842  python main.py --mod generals --map maps/crossroads.json
+  843  python3 main.py --mod generals --map maps/crossroads.json
+  844  git init
+  845  git status
+  846  git add .
+  847  git status
+  848  git commit -m "base cc-generals code"
+  849  git branch -M main 
+  850  git remote add origin https://github.com/nbahraini/WarRoom.git
+  851  git push -u origin main 
+  852  pip install pygame
+  853  pipx install pygame
+  854  python test_sim.py 
+  855  python3 test_sim.py 
+  856  ls -lah 
+  857  cd
+  858  ./telegramx.sh 
+  859  cd Documents/
+  860  cd Inf_EXTR/
+  861  ls -lah 
+  862  touch .gitignore
+  863  ls info_infextr_v01.odt >> .gitignore 
+  864  git init
+  865  git status
+  866  git commit -m "Base Script not tested"
+  867  git init
+  868  git add .
+  869  git status
+  870  git commit -m "Base Script not tested"
+  871  git branch -M main 
+  872  git remote add origin https://github.com/nbahraini/inf_extr.git
+  873  git push -u origin main
+  874  git init
+  875  git commit -m "Base Script and yaml , garbage file delete"
+  876  git push -u origin main
+  877  git add -u 
+  878  git commit -m "remove garbage file delete"
+  879  git push -u origin main
+  880  ./telegramx.sh 
+  881  زی
+  882  cd
+  883  ./telegramx.sh 
+  884  touch sanboot-check.sh
+  885  cd
+  886  ./telegramx.sh 
+  887  cd
+  888  ./telegramx.sh 
+  889  date
+  890  timezone
+  891  time
+  892  sudo ntpq -u 
+  893  sudo systemctl restart ntpd 
+  894  ntpdate -u 
+  895  sudo apt install ntpdate
+  896  sudo ntpdate -u
+  897  sudo ntpdig
+  898  sudo apt install ntpq
+  899  sudo vi /etc/apt/apt.conf.d/proxy.conf 
+  900  sudo apt update
+  901  sudo apt install ntpq
+  902  sudo  apt install ntpsec
+  903  sudo apt autoremover
+  904  sudo apt autoremove
+  905  sudo apt upgrade
+  906  poweroff
+  907  sudo poweroff
+  908  python3 merge_csv.py -i ./out/ -o cmd_merge.csv
+  909  touch info.odt
+  910  cd pytty/
+  911  ls -lah 
+  912  cd ..
+  913  ls -lah 
+  914  python3 -m venv .venv && source .venv/bin/activate
+  915  pip install -e .              # or: pip install -e '.[keyring]'
+  916  pytty --proxy socks5h://localhost:9050
+  917  git init
+  918  git add .
+  919  git status
+  920  git -M main
+  921  git commit -m "base app features are same as putty but we added ability to proxy, auto reconnect, keep alive 1 ssh session  with new Terminal user interface on python so the performance is lower than putty, kitty or such software but it is better for tunneling"
+  922  git branch -M main
+  923  git remote add origin https://github.com/nbahraini/TUTTY.git
+  924  git push -u origin main
+  925  cd
+  926  ./telegramx.sh 
+  927  cd ~/Documents/
+  928  cd pyNote/
+  929  ls -lah 
+  930  cd pynote-0.1.0/
+  931  ls -lah 
+  932  cd pynote/
+  933  ls -lah  
+  934  python3 -m venv .venv && . .venv/bin/activate
+  935  pip install -r requirements.txt 
+  936  python -m pynote
+  937  apt install python3-pyqt6
+  938  sudo apt install python3-pyqt6
+  939  sudo apt install python3-secretstorage
+  940  sudo apt install kwalletmanager
+  941  sudo apt install gnome-keyring
+  942  python -m pynote
+  943  cd ..
+  944  ls -lah 
+  945  cd pynote-0.1.1-fixed/
+  946  ls -lah 
+  947  pynote/
+  948  ls -lah 
+  949  cd pynote/
+  950  ls -lah 
+  951  chmod +x no-client-id-crash.patch 
+  952  ./no-client-id-crash.patch 
+  953  cd ..
+  954  python -m pynote
+  955  patch -p1 --dry-run < ./pynote/no-client-id-crash.patch 
+  956  cd ~/Documents/
+  957  ls -lah 
+  958  cd tutty_v03/
+  959  ls -lah 
+  960  cd pytty/
+  961  ls -lah 
+  962  cat info.txt 
+  963  python3 -m venv .venv && source .venv/bin/activate
+  964  pip install -e .              # or: pip install -e '.[keyring]'
+  965  cat info.txt 
+  966  pytty
+  967  ./gradlew assembleDebug
+  968  cd..
+  969  cd ..
+  970  cd sockshttp/
+  971  ls -lah 
+  972  ./gradlew assembleDebug
+  973  chmod u+x gradlew
+  974  ./gradlew assembleDebug
+  975  cd
+  976  ./telegramx.sh 
+  977  touch info_prompt.txt
+  978  git clone https://github.com/Kirazul/LLMs2API.git
+  979  touch features.txt
+  980  chmod u+x story-engine-start_v02.sh 
+  981  ./story-engine-start_v02.sh 
+  982  vi story-engine-start_v02.sh 
+  983  sudo powweroff
+  984  sudo poweroff
+  985  pip install streamlit openai networkx pyvis
+  986  python3 -m venv .venv
+  987  source .venv/bin/activate
+  988  pip install streamlit openai networkx pyvis langchain
+  989  touch installer.sh
+  990  echo 'python3 -m venv .venv' >> installer.sh 
+  991  ehco 'source .venv/bin/activate' >> installer.sh 
+  992  echo 'pip install streamlit openai networkx pyvis langchain' >> installer.sh 
+  993  streamlit run ./Qwen_python_20260911_pp2idqdcw.py
+  994  touch ./story-engine-start.sh
+  995  vi  ./story-engine-start.sh
+  996  ls -lah 
+  997  ./story-engine-start_v02.sh 
+  998  cd
+  999  ./telegramx.sh 
+ 1000  cd Documents/
+ 1001  ls -lah 
+ 1002  cd tutty_v03/
+ 1003  ls -lah 
+ 1004  cd pytty/
+ 1005  ls -laha 
+ 1006  cat README.md 
+ 1007  ls -lah 
+ 1008  cat info.txt 
+ 1009  vi ./pytty-start.sh 
+ 1010  ./pytty-start.sh 
+ 1011  chmod u+x run.sh 
+ 1012  ./run.sh 
+ 1013  chmod u+x setup_project2.sh 
+ 1014  ./setup_project2.sh 
+ 1015  chmod u+x setup_project.sh 
+ 1016  ./setup_project.sh 
+ 1017  streamlit run app.py
+ 1018  ./run.sh 
+ 1019  streamlit run app.py
+ 1020  ./run.sh 
+ 1021  chmod u+x ./setup.sh 
+ 1022  ./setup.sh 
+ 1023  touch setup.sh 
+ 1024  vi setup.sh 
+ 1025  chmod u+x ./setup.sh 
+ 1026  ./setup.sh 
+ 1027  touch setup2.sh 
+ 1028  vi setup2.sh 
+ 1029  chmod u+x setup2.sh 
+ 1030  ./setup2.sh 
+ 1031  touch .gitignore
+ 1032  ls __pycache__/ >>.gitignore 
+ 1033  ls .venv/ >>.gitignore 
+ 1034  ls setup_project.sh >>.gitignore 
+ 1035  git init .
+ 1036  git add .
+ 1037  git status
+ 1038  git commit -m "first stable version"
+ 1039  git branch -M main
+ 1040  git remote add origin https://github.com/nbahraini/StoryForge.git
+ 1041  git push -u origin main
+ 1042  git init
+ 1043  git add .
+ 1044  git commit -m "first stable version"
+ 1045  git branch -M main
+ 1046  git remote add origin https://github.com/nbahraini/StoryForge.git
+ 1047  git push -u origin main
+ 1048  git config --global user.name "nbahraini" 
+ 1049  git config --global user.email "nbahraini@gmail.com" 
+ 1050  git config --global --list 
+ 1051  git init 
+ 1052  git status 
+ 1053  git add . 
+ 1054  git remote add origin https://github.com/nbahraini/StoryForge.git
+ 1055  git branch -M main 
+ 1056  git push -u origin main 
+ 1057  chmod u+x setup.sh 
+ 1058  ./setup.sh 
+ 1059  ls -lah 
+ 1060  ./setup.sh 
+ 1061  vi setup.sh 
+ 1062  cd Documents/
+ 1063  cd tutty_v03/
+ 1064  ls -lah 
+ 1065  cd pytty/
+ 1066  ls -lah 
+ 1067  ./pytty-start.sh 
+ 1068  chmod u+x setup.sh 
+ 1069  ./setup.sh 
+ 1070  . .venv/bin/activate
+ 1071  python -c "import fastapi, uvicorn, httpx, yaml; print('deps ok')"
+ 1072  sudo apt install -y python3-fastapi python3-uvicorn python3-httpx python3-yaml
+ 1073  rm -rf .venv
+ 1074  python3 -m venv --system-site-packages .venv
+ 1075  . .venv/bin/activate
+ 1076  pip install -e . --no-deps --no-build-isolation
+ 1077  ./setup.sh 
+ 1078  . .venv/bin/activate
+ 1079  agentforge serve
+ 1080  git init
+ 1081  git add .
+ 1082  git -m "first version - base of 3xcomp"
+ 1083  gitcommit -m "first version - base of 3xcomp"
+ 1084  git commit -m "first version - base of 3xcomp"
+ 1085  git remote add origin https://github.com/nbahraini/AgentForged.git
+ 1086  git push -u origin main
+ 1087  git branch -M main 
+ 1088  git push -u origin main 
+ 1089  sudo poweroff
+ 1090  telnet localhost 8787
+ 1091  cd
+ 1092  ./telegramx.sh 
+ 1093  cd 
+ 1094  ./telegramx.sh 
+ 1095  chmod u+x ./run_tutty.sh 
+ 1096  ./run_tutty.sh 
+ 1097  cd pytty/
+ 1098  ls -lah 
+ 1099  cd ..
+ 1100  cd tutty_v03/
+ 1101  ls -lah 
+ 1102  cd pytty/
+ 1103  ls -lah 
+ 1104  ./run_tutty.sh 
+ 1105  ./pytty-start.sh 
+ 1106  ls -lah 
+ 1107  ./run_tutty.sh 
+ 1108  ssh -D 8283  droot@162.245.81.144 -p 20402
+ 1109  #!/usr/bin/env bash
+ 1110  #
+ 1111  # run_tutty.sh
+ 1112  # Clones, installs, and runs nbahraini/TUTTY (pytty) on Linux
+ 1113  #
+ 1114  set -uo pipefail
+ 1115  REPO_URL="https://github.com/nbahraini/TUTTY.git"
+ 1116  SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ 1117  INSTALL_DIR="${SCRIPT_DIR}/TUTTY"
+ 1118  VENV_DIR="${INSTALL_DIR}/.venv"
+ 1119  echo
+ 1120  echo "=== Checking prerequisites ==="
+ 1121  if ! command -v git >/dev/null 2>&1; then     echo "[ERROR] git was not found on PATH. Install it with your package manager, e.g.:";     echo "        sudo apt install git       (Debian/Ubuntu)";     echo "        sudo dnf install git       (Fedora)";     echo "        sudo pacman -S git         (Arch)";     exit 1; fi
+ 1122  PYTHON_BIN=""
+ 1123  for candidate in python3 python; do     if command -v "$candidate" >/dev/null 2>&1; then         PYTHON_BIN="$candidate";         break;     fi; done
+ 1124  if [ -z "$PYTHON_BIN" ]; then     echo "[ERROR] Python was not found on PATH. Install Python 3.10+ with your package manager, e.g.:";     echo "        sudo apt install python3 python3-venv python3-pip   (Debian/Ubuntu)";     echo "        sudo dnf install python3                            (Fedora)";     echo "        sudo pacman -S python                               (Arch)";     exit 1; fi
+ 1125  PYVER="$("$PYTHON_BIN" --version 2>&1)"
+ 1126  echo "Found $PYVER"
+ 1127  # Basic version check (need >= 3.10)
+ 1128  PYVER_OK=$("$PYTHON_BIN" -c 'import sys; print(1 if sys.version_info >= (3,10) else 0)')
+ 1129  if [ "$PYVER_OK" != "1" ]; then     echo "[ERROR] Python 3.10 or newer is required. Found: $PYVER";     exit 1; fi
+ 1130  echo
+ 1131  # ============================================================
+ 1132  # Clone or update the repository
+ 1133  # ============================================================
+ 1134  if [ -d "${INSTALL_DIR}/.git" ]; then     echo "=== Updating existing clone ===";     git -C "$INSTALL_DIR" pull; else     echo "=== Cloning repository ===";     git clone "$REPO_URL" "$INSTALL_DIR"; fi
+ 1135  echo
+ 1136  # ============================================================
+ 1137  # Create virtual environment (only if missing)
+ 1138  # ============================================================
+ 1139  if [ ! -f "${VENV_DIR}/bin/activate" ]; then     echo "=== Creating virtual environment ===";     "$PYTHON_BIN" -m venv "$VENV_DIR";     if [ $? -ne 0 ]; then         echo "[ERROR] Failed to create virtual environment.";         echo "        On Debian/Ubuntu you may need: sudo apt install python3-venv";         exit 1;     fi; fi
+ 1140  echo "=== Activating virtual environment ==="
+ 1141  # shellcheck disable=SC1091
+ 1142  source "${VENV_DIR}/bin/activate"
+ 1143  echo
+ 1144  # ============================================================
+ 1145  # Install / update the package
+ 1146  # ============================================================
+ 1147  echo "=== Installing pytty and dependencies ==="
+ 1148  (     cd "$INSTALL_DIR" || exit 1;     python -m pip install --upgrade pip;     if ! python -m pip install -e ".[keyring]"; then         echo "[WARN] Install with keyring extra failed, retrying without it...";         python -m pip install -e .;     fi; )
+ 1149  echo
+ 1150  # ============================================================
+ 1151  # Run pytty
+ 1152  # ============================================================
+ 1153  echo "=== Launching pytty ==="
+ 1154  echo "(Press q or ctrl+] to quit and return here)"
+ 1155  echo
+ 1156  pytty "$@"
+ 1157  deactivate 2>/dev/null || true
+ 1158  echo
+ 1159  echo "Done.":q!
+ 1160  python3 -m venv .venv && . .venv/bin/activate
+ 1161  cd ..
+ 1162  ls -lah 
+ 1163  pip install -r requirements.txt 
+ 1164  python -m pynote
+ 1165  touch .gitignore
+ 1166  ls ../pynote/.venv >> .gitignore 
+ 1167  ls "../pynote/.venv" >> .gitignore 
+ 1168  echo "../pynote/.venv" >> .gitignore 
+ 1169  git init
+ 1170  git add .
+ 1171  cd
+ 1172  cd Downloads/
+ 1173  cd APPs/
+ 1174  ls -lah 
+ 1175  cp ../../Documents/tutty_v03/pytty/run_tutty.sh ./
+ 1176  ls -lah 
+ 1177  ./run_tutty.sh 
+ 1178  chmod u+x ./run_tutty.sh 
+ 1179  ./run_tutty.sh 
+ 1180  vi ./run_tutty.sh 
+ 1181  ./run_tutty.sh 
+ 1182  vi ./run_tutty.sh 
+ 1183  cp ../../Documents/tutty_v03/pytty/run_tutty.sh ./
+ 1184  sed -i 's/\r$//' run_tutty.sh
+ 1185  sudo apt install dos2unix
+ 1186  ./run_tutty.sh 
+ 1187  cd
+ 1188  ./telegramx.sh 
+ 1189  cd
+ 1190  cd Downloads/APPs/
+ 1191  ./run_tutty.sh 
+ 1192  cd
+ 1193  ./telegramx.sh 
+ 1194  cd
+ 1195  ./telegramx.sh 
+ 1196  cd
+ 1197  cd Downloads/APPs/
+ 1198  ./run_tutty.sh 
+ 1199  python create_vmap_part1_core.py 
+ 1200  python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+ 1201  pip install -e ".[dev]"
+ 1202  pytest -q
+ 1203  python -m venv .venv && source .venv/bin/activate
+ 1204  python3 -m venv .venv && source .venv/bin/activate
+ 1205  python create_vmap_part1_core.py
+ 1206  python3 create_vmap_part1_core.py
+ 1207  cd ~/Documents/vMAP
+ 1208  python create_vmap_part1_core.py
+ 1209  python create_vmap_part2a_canvas.py
+ 1210  python create_vmap_part2b_window.py
+ 1211  python create_vmap_part3_tests_docs.py
+ 1212  cd vmap-studio
+ 1213  pip install -e ".[dev]"
+ 1214  pytest -q
+ 1215  vmap-studio
+ 1216  pytest -q
+ 1217  sudo apt install libxcb-cursor0 libxkbcommon-x11-0 libegl1
+ 1218  python fix_phase1_py311.py
+ 1219  cd vmap-studio
+ 1220  pip install -e ".[dev]"
+ 1221  pytest -q
+ 1222  vmap-studio
+ 1223  cd ~/Documents/vMAP/vmap-studio
+ 1224  python - <<'EOF'
+from pathlib import Path
+
+HELPER = '''def _field(d: dict, key: str, kind: type) -> Any:
+    """Missing/None -> empty default; a present value must have exactly this type."""
+    value = d.get(key)
+    if value is None:
+        return kind()
+    if not isinstance(value, kind) or (kind is int and isinstance(value, bool)):
+        raise ValueError(f"{key} must be of type {kind.__name__}")
+    return value
+
+
+def _pair(value: Any)'''
+
+PATCHES = {
+    "vmap/core/model.py": [
+        ("def _pair(value: Any)", HELPER, "def _field("),
+        ('style = d.get("style") or {}', 'style = _field(d, "style", dict)', '_field(d, "style"'),
+        ('metadata = d.get("metadata") or {}', 'metadata = _field(d, "metadata", dict)', '_field(d, "metadata"'),
+        ('children = d.get("children") or []', 'children = _field(d, "children", list)', '_field(d, "children"'),
+        ('z = d.get("z_index") or 0', 'z = _field(d, "z_index", int)', '_field(d, "z_index"'),
+    ],
+    "pyproject.toml": [
+        ('requires-python = ">=3.12"', 'requires-python = ">=3.11"', '">=3.11"'),
+    ],
+    "tests/test_model.py": [
+        ('{"labels": "x"}, {"metadata": 5},',
+         '{"labels": "x"}, {"metadata": 5}, {"metadata": []},\n    {"children": {}}, {"z_index": False},',
+         '{"z_index": False}'),
+    ],
+    ".github/workflows/ci.yml": [
+        ('python: ["3.12", "3.13"]', 'python: ["3.11", "3.12", "3.13"]', '"3.11"'),
+    ],
+    "README.md": [("**Python 3.12+**", "**Python 3.11+**", "**Python 3.11+**")],
+}
+
+for rel, patches in PATCHES.items():
+    path = Path(rel)
+    if not path.exists():
+        print("MISSING ", rel)
+        continue
+    text = path.read_text(encoding="utf-8")
+    for old, new, marker in patches:
+        if marker in text:
+            print("already ", rel)
+        elif old in text:
+            text = text.replace(old, new)
+            print("fixed   ", rel)
+        else:
+            print("NOTFOUND", rel, "->", old)
+    path.write_text(text, encoding="utf-8", newline="\n")
+EOF
+
+ 1225  grep -n "requires-python" pyproject.toml     # must show >=3.11
+ 1226  pip install -e ".[dev]"
+ 1227  pytest -q
+ 1228  vmap-studio
+ 1229  history > ../run.txt

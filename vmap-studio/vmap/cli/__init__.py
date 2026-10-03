@@ -1,0 +1,1 @@
+"""`vmap` command line interface."""

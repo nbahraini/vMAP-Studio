@@ -1,0 +1,15 @@
+create_vmap_part1_core.py
+create_vmap_part2a_canvas.py
+create_vmap_part2b_window.py
+create_vmap_part3_tests_docs.py
+fix_phase1_py311.py
+info_Claude.pdf
+CACHEDIR.TAG
+README.md
+v
+bin
+include
+lib
+lib64
+pyvenv.cfg
+vmap_part3_tests_docs.py
