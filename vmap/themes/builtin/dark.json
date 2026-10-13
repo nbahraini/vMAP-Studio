@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "dark",
+  "name": "Professional Dark",
+  "version": 1,
+  "author": "VMap Studio contributors",
+  "license": "CC0-1.0",
+  "description": "Low-glare dark canvas with accent-coloured branches.",
+  "background": "#1E1F24",
+  "line_style": "curve",
+  "colored_branches": true,
+  "branch_colors": ["#60A5FA", "#F472B6", "#34D399", "#FBBF24", "#A78BFA", "#F87171"],
+  "branch_color_targets": {"main": ["border", "line_color"], "sub": ["line_color"]},
+  "h_gap": 34, "v_gap": 12, "root_gap": 56,
+  "levels": {
+    "root": {"shape": "rounded_rect", "fill": "#3B82F6", "border": "#93C5FD", "border_width": 2,
+             "text_color": "#FFFFFF", "font_size": 18, "bold": true, "padding_x": 22, "padding_y": 12},
+    "main": {"shape": "rounded_rect", "fill": "#2A2D35", "border_width": 2, "text_color": "#E5E7EB",
+             "font_size": 14, "padding_x": 14, "padding_y": 7, "line_width": 2.2},
+    "sub":  {"shape": "underline", "fill": "none", "text_color": "#D1D5DB", "font_size": 12,
+             "padding_x": 6, "padding_y": 4, "line_width": 1.5}
+  }
+}

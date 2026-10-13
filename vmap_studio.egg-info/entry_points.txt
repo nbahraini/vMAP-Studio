@@ -1,0 +1,5 @@
+[console_scripts]
+vmap = vmap.cli.main:main
+
+[gui_scripts]
+vmap-studio = vmap.app:main

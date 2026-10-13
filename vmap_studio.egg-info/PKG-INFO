@@ -1,0 +1,101 @@
+Metadata-Version: 2.4
+Name: vmap-studio
+Version: 0.1.0
+Summary: Modular, cross-platform mind mapping and visual thinking platform (Phase 1).
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: PySide6>=6.6
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
+
+# VMap Studio
+
+A modular, cross-platform (Linux · Windows · macOS) mind-mapping and visual-thinking
+desktop application written in **Python 3.11+** and **PySide6 / Qt 6**.
+
+> **Status: Phase 1 of 10 (foundation).** This build is a working mind-map editor with a
+> native file format. Features that are not implemented are hidden from the UI, and the
+> CLI says "not implemented yet" for planned commands. See [ROADMAP.md](ROADMAP.md) and
+> [FEATURE_MATRIX.md](FEATURE_MATRIX.md) for the exact state.
+> The only supported file format so far is the native `.vmap` format. XMind, FreeMind and
+> other formats are planned (Phase 4–5) and are **not** claimed to work yet.
+
+## Quick start
+
+```bash
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -e ".[dev]"
+vmap-studio                        # or: python -m vmap   (optionally followed by a .vmap path)
+```
+
+Without installing: `pip install PySide6` and then `python -m vmap` from the project folder.
+
+## What works in Phase 1
+
+- Main window with menus, toolbar, Properties panel, Overview navigator, sheet tabs and status bar
+- Topics: add child/sibling/parent, in-place multi-line editing, delete, multi-select, box select
+- Drag and drop topics to re-parent or reorder, keyboard navigation, fold/unfold, sort
+- Copy/cut/paste/duplicate, including pasting an indented plain-text outline
+- Three structures: balanced mind map, logic chart (right), left map
+- Theme engine (versioned JSON) with four built-in themes, import/export and per-topic style overrides
+- Notes per topic, find & replace (case, whole word, regex, notes)
+- Unlimited (or configurable) undo/redo; every operation, including Replace All, is one step
+- Native `.vmap` open/save (atomic writes, hardened parser, conversion reports), PNG/SVG export
+- Zen Mode, full screen, grid, zoom/pan (wheel, pinch, middle mouse), recent files
+- Right-to-left text (Persian, Arabic, Hebrew) inside topics; every UI string goes through `tr()`
+
+## Keyboard essentials
+
+| Action | Keys |
+|---|---|
+| New subtopic | `Tab` / `Insert` |
+| New sibling after / before | `Enter` / `Shift+Enter` |
+| New parent topic | `Ctrl/⌘+Enter` |
+| Edit topic | `F2`, `Space`, or start typing |
+| Delete | `Delete` / `Backspace` |
+| Move topic up / down | `Alt+↑` / `Alt+↓` |
+| Fold / unfold | `Ctrl/⌘+/` |
+| Find / Replace | `Ctrl/⌘+F` / `Ctrl+H` |
+| Zen Mode | `Ctrl/⌘+Shift+M` (`Esc` to leave) |
+
+The full list is in **Help → Keyboard Shortcuts**.
+
+## Command line
+
+```bash
+vmap new demo.vmap --title "Kubernetes" --theme rainbow
+vmap validate demo.vmap
+vmap info demo.vmap --json
+vmap theme list
+vmap open demo.vmap
+```
+
+## Data locations
+
+Settings (SQLite), user themes and rotating logs live in the platform's application-data
+folder; **Help → Diagnostics** shows the exact path. Set `VMAP_DATA_DIR` to use another
+folder (for example, a portable installation). Documents are never stored in the database.
+
+## Tests
+
+```bash
+pip install -e ".[dev]"
+pytest                             # GUI tests run headless (QT_QPA_PLATFORM=offscreen)
+```
+
+## Documentation
+
+[ARCHITECTURE.md](ARCHITECTURE.md) · [FILE_FORMAT.md](FILE_FORMAT.md) ·
+[THEMING.md](THEMING.md) · [SECURITY.md](SECURITY.md) · [CONTRIBUTING.md](CONTRIBUTING.md) ·
+[ROADMAP.md](ROADMAP.md) · [FEATURE_MATRIX.md](FEATURE_MATRIX.md)
+
+## Independence and licensing
+
+VMap Studio is an independent implementation inspired by the *workflow* of classic desktop
+mind-mapping tools. It contains no XMind source code or assets and is not affiliated with
+or endorsed by XMind Ltd. or any other vendor. Built-in themes and icons are original
+(themes are CC0-1.0; icons are drawn in code).
+
+**No project license has been chosen yet.** Add a `LICENSE` file before distributing.
+PySide6/Qt are used under the LGPLv3.

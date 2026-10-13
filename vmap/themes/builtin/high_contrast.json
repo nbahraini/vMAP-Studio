@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "high_contrast",
+  "name": "High Contrast (Accessibility)",
+  "version": 1,
+  "author": "VMap Studio contributors",
+  "license": "CC0-1.0",
+  "description": "Maximum contrast, thick strokes, colour-independent structure.",
+  "background": "#000000",
+  "line_style": "elbow",
+  "colored_branches": false,
+  "h_gap": 36, "v_gap": 14, "root_gap": 56,
+  "levels": {
+    "root": {"shape": "rect", "fill": "#000000", "border": "#FFFF00", "border_width": 3,
+             "text_color": "#FFFF00", "font_size": 20, "bold": true, "padding_x": 22, "padding_y": 12,
+             "line_color": "#FFFFFF", "line_width": 3},
+    "main": {"shape": "rect", "fill": "#000000", "border": "#FFFFFF", "border_width": 2.5,
+             "text_color": "#FFFFFF", "font_size": 15, "bold": true, "padding_x": 14, "padding_y": 7,
+             "line_color": "#FFFFFF", "line_width": 2.5},
+    "sub":  {"shape": "rect", "fill": "#000000", "border": "#FFFFFF", "border_width": 1.5,
+             "text_color": "#FFFFFF", "font_size": 13, "padding_x": 8, "padding_y": 4,
+             "line_color": "#FFFFFF", "line_width": 2}
+  }
+}
